@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-marked-primer",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "markdown-loader": "^2.0.0",
+    "marked": "^0.3.6",
+    "nuxt": "^0.9.7",
+    "raw-loader": "^0.5.1",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^2.4.0"
+  }
+}
